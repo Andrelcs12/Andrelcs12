@@ -1,13 +1,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j.rafaelzz/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-rafael-sousa-santos-39b12835a/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrelucasdev/)
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Jotaerri17&show_icons=true&theme=tokyonight&card_width=400" alt="Jotaerri17 GitHub stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Andrelcs12&show_icons=true&theme=tokyonight&card_width=400" alt="Andrelcs12 GitHub stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotaerri17&layout=compact&theme=tokyonight&card_width=400" alt="Top Langs"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrelcs12&layout=compact&theme=tokyonight&card_width=400" alt="Top Langs"/>
     </td>
   </tr>
 </table>
